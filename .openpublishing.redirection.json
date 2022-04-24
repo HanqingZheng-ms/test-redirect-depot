@@ -1,0 +1,9 @@
+{
+    "redirections": [
+        {
+            "source_path": "openpublishing/docs/partnerdocs/index.md",
+            "redirect_url": "/opsdocs/partnerdocs/VSTSgit-github",
+            "redirect_document_id": true
+        }
+    ]
+}
