@@ -1,8 +1,8 @@
 {
     "redirections": [
         {
-            "source_path": "openpublishing/docs/partnerdocs/index.md",
-            "redirect_url": "/opsdocs/partnerdocs/VSTSgit-github",
+            "source_path": "test-redirect-depot/index.md",
+            "redirect_url": "https://www.baidu.com",
             "redirect_document_id": true
         }
     ]
