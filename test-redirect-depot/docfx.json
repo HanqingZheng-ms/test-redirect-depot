@@ -42,7 +42,7 @@
       "breadcrumb_path": "/test-redirect-depot/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None",
-      "redirect_url": "index"
+      "redirect_url": "https://www.baidu.com"
     },
     "fileMetadata": {},
     "template": [],
