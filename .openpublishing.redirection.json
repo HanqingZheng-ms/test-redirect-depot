@@ -1,0 +1,9 @@
+{
+  "redirections": [
+    {
+      "source_path": "test-redirect-depot/test66.md",
+      "redirect_url": "/previous-versions/test-redirect-depot-archive/test66",
+      "redirect_document_id": false
+    }
+  ]
+}
