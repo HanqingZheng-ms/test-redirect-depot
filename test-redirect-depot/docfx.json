@@ -41,7 +41,8 @@
     "globalMetadata": {
       "breadcrumb_path": "/test-redirect-depot/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "redirect_url": "index"
     },
     "fileMetadata": {},
     "template": [],
