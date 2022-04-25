@@ -41,8 +41,7 @@
     "globalMetadata": {
       "breadcrumb_path": "/test-redirect-depot/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None",
-      "redirect_url": "https://www.baidu.com"
+      "feedback_system": "None"
     },
     "fileMetadata": {},
     "template": [],
